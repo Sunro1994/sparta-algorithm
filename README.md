@@ -27,5 +27,5 @@ Sparta Algorithm Study
 
 | 주차 | 주제 | 문제 리스트 링크 | 
 | :--: | :--: | :--: |
-| 1주차 | DFS/BFS | [DFS/BFS 문제 리스트 링크]() |
+| 1주차 | DFS/BFS | [DFS/BFS 문제 리스트 링크](https://github.com/Sunro1994/sparta-algorithm/blob/main/DFS%26BFS/DFS%26BFS%EB%AC%B8%EC%A0%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8.md) |
 
