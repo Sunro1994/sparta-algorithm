@@ -5,5 +5,5 @@
 |:---:|:---:|:---:|:---:|
 |2025.02.08 | 하 | 그림 | [그림](https://www.acmicpc.net/problem/1926)|
 |2025.02.08 | 중 | 유기농 배추 | [유기농 배추](https://www.acmicpc.net/problem/1012)|
-| 다음 일정 | 하 | 미로탐색 | [미로탐색](https://www.acmicpc.net/problem/2178)| 
-| 다음 일정 | 중 | 적록색약 | [적록색약](https://www.acmicpc.net/problem/10026)|
+| 2025.02.13 | 중 | 나이트의 이동 | [나이트의 이동](https://www.acmicpc.net/problem/7562)| 
+| 2025.02.13 | 상 | 불 | [불](https://www.acmicpc.net/problem/5427)|
