@@ -22,6 +22,7 @@ public class BOJ_1991_트리순회 {
         int n = Integer.parseInt(br.readLine());
         tree = new Node[n+1];
 
+        // ✅ 고민한 부분 : 문자로 표현된 노드를 어떻게 찾아갈 것인가
         for (int i=0; i<n; i++){
             String[] input = br.readLine().split(" ");
             int parent = input[0].charAt(0) - 'A' +1;
